@@ -16,7 +16,8 @@ To install the plugin using git, execute the following commands in the root of y
 
     git clone https://github.com/GuillaumeBlin/moodle-local_manpages.git your_moodle_root/local/manpages
     
-Or, extract the following zip in your_moodle_root/local/ as follows:
+Or, extract the following zip in `your_moodle_root/local/` as follows:
+
     cd your_moodle_root/local/
     wget https://github.com/GuillaumeBlin/moodle-local_manpages/archive/master.zip
     unzip -j master.zip -d manpages

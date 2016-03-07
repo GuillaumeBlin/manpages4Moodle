@@ -18,4 +18,4 @@ To install the plugin using git, execute the following commands in the root of y
     
 Or, extract the following zip in your_moodle_root/local/:
 
-    https://github.com/GuillaumeBlin/moodle-local_manpages/zipball/master
+    https://github.com/GuillaumeBlin/moodle-local_manpages/archive/master.zip
